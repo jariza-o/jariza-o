@@ -1,35 +1,44 @@
-### Hi there 👋
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjariza-o&countColor=%23f47373)
+<h1 align="center">Hi, I'm Juan Ariza👋</h1>
+<h3 align="center">A passionate junior developer from Málaga, Spain</h3>
 
-<h1 align="center">Hi 👋, I'm Juan Ariza</h1>
-<h3 align="center">A passionate developer from Málaga, Spain</h3>
+- 🔭 I’m currently working on **<a href="https://www.linkedin.com/company/premo-group/"> Premo Group</a>**.
+- 👨‍🎓 I’m currently studying Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**.
+<h1>Job</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jariza-o&label=Profile%20views&color=0e75b6&style=flat" alt="jariza-o" /> </p>
+During my participation in my job, I acquired the following knowledge and skills:
+- ⌨️ IT Support.
+    - Windows Server configuration (Active Directory, DNS, DHCP, Azure AD Connect, etc).
+    - Office 365 configuration (Exchange, Sharepoint, etc).
+    - Cybersecurity (Eset Antivirus, Sophos Antivirus, Darktrace, MFA implementation).
+    - Network configuration and maintenance (Firewall, Proxy, Access Points, Switchs, VPN, etc).
+- 📝 Programs.
+    - Web Scrapping with Python.
+    - Scripting with Bash, PowerShell and Visual Basic Script.
+- 📊 Data Science.
+    - MS SQL Server, MySQL.
+    - SQL Querys.  
+<h1>42 Málaga</h1>
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/jariza-o?1337Badge=off&UM6P=off" alt="jariza-o's 42 stats" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jariza-o" alt="jariza-o" /></a> </p>
+During my participation in the 42 cursus, I acquired the following knowledge and skills:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/juan-ariza-ordo%C3%B1ez-94ab69230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Ariza Ordoñez" height="30" width="40" /></a>
-</p>
+- **C programming**.
+- **Algorithm development** and **data structures**.
+- **Collaborative work** in **development environments**.
+- **Complex problem solving**.
+- Use of **version control** tools like **Git**.
+- **Project development** using **agile** methodologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1>Skills</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jariza-o&show_icons=true&locale=en&layout=compact" alt="jariza-o" /></p>
+[![My Skills](https://skillicons.dev/icons?i=c,python,mysql,git,vscode,linux,vim,azure,bash)](https://skillicons.dev)
 
--->
+<h1>Contact Me</h1>
+If you have any questions or would like to connect, please feel free to reach out to me via:
 
-<!--
-**jariza-o/jariza-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <a href="https://www.linkedin.com/in/jariza-o"> Linkedin.</a>
+- <a href="mailto:juanarizaordonez@gmail.com?Subject=Contacto%20desde%20GitHub."> Mail.</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
