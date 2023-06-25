@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 <h1 align="center">Hi 👋, I'm Juan Ariza</h1>
 <h3 align="center">A passionate developer from Málaga, Spain</h3>
 
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
