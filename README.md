@@ -20,7 +20,7 @@ During my participation in my job, I acquired the following knowledge and skills
     - SQL Querys.  
 <h1>42 Málaga</h1>
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/jariza-o?1337Badge=off&UM6P=off" alt="jariza-o's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkzl0005000608lemgutylxc/stats?cursusId=21&coalitionId=274" alt="jariza-o's 42 stats" /></a>
 
 During my participation in the 42 cursus, I acquired the following knowledge and skills:
 
