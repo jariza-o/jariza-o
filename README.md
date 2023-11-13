@@ -35,6 +35,14 @@ During my participation in the 42 cursus, I acquired the following knowledge and
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,mysql,git,vscode,linux,vim,azure,bash)](https://skillicons.dev)
 
+<p align="center">
+<a href="https://github.com/jariza-o/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jariza-o" />
+</a>
+<a href="https://github.com/jariza-o/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jariza-o&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <h1>Contact Me</h1>
 If you have any questions or would like to connect, please feel free to reach out to me via:
 
