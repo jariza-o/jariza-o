@@ -24,12 +24,13 @@ During my participation in my job, I acquired the following knowledge and skills
 
 During my participation in the 42 cursus, I acquired the following knowledge and skills:
 
-- **C programming**.
+- **C & C++ programming**.
 - **Algorithm development** and **data structures**.
 - **Collaborative work** in **development environments**.
 - **Complex problem solving**.
 - Use of **version control** tools like **Git**.
 - **Project development** using **agile** methodologies.
+- **Dockers** assembly and use
 
 <h1>Skills</h1>
 
