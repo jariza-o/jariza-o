@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjariza-o&countColor=%230000FF)
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&random=false&width=435&separator=%3C&lines=Welcome!!!!%3CHi%2C+I'm+Juan+;)" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&random=false&width=440&height=65&separator=%3C&lines=Welcome!!!!%3CHi%2C+I'm+Juan+;)" alt="Typing SVG" /></a>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
