@@ -16,7 +16,7 @@
 
 During my participation in the 42 cursus, I acquired the following knowledge and skills:
 
-- **C & C++ programming**.
+- **C, C++, Python programming**.
 - **Algorithm development** and **data structures**.
 - **Collaborative work** in **development environments**.
 - **Complex problem solving**.
@@ -55,5 +55,5 @@ If you have any questions or would like to connect, please feel free to reach ou
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 Juan Ariza
+  &copy; 2026 Juan Ariza
 </div>
